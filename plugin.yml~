@@ -1,8 +1,0 @@
-name: MinerHelmetsPlus
-main: me.bennyman123abc.Helmet
-version: 1.0
-commands:
-    minerhelmets:
-        aliases: [miner, mine, helmets, mh]
-        description: Miner Helmets Plugin Information
-        usage: /<command>
