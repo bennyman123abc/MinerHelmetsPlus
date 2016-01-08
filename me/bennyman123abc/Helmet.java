@@ -53,6 +53,7 @@ public class Helmet extends org.bukkit.plugin.java.JavaPlugin implements org.buk
       sender.sendMessage(ChatColor.GOLD + "Miner Helmets");
       sender.sendMessage(ChatColor.GOLD + "Plugin Made by bennyman123abc");
       sender.sendMessage(ChatColor.GREEN + "Version: 1.1");
+      return true;
     }
      
     return false;
